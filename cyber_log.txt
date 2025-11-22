@@ -1,0 +1,4 @@
+Log entry: Script executed.
+Log entry: Script executed.
+[2025-11-19 12:28:30] User: JHEEL | Script: cyber_lab_script.py | Status: Script executed successfully
+[2025-11-19 13:14:41] System info collected
