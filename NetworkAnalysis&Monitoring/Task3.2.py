@@ -1,3 +1,5 @@
+import os
+os.environ["PATH"] += os.pathsep + r"C:\Program Files (x86)\Nmap"
 import nmap
 import psutil
 import time
@@ -66,3 +68,4 @@ if __name__ == "__main__":
     print(f"Live hosts detected: {live_hosts}")
 
     monitor_traffic(interface=interface, duration=60, interval=5)
+
